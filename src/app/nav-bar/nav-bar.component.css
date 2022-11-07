@@ -1,0 +1,23 @@
+.top-bar{
+    display: -ms-inline-grid;
+    grid-template-columns: 50px 1fr;
+    margin-top: -1%;
+}
+.grid-item{
+    margin-right: 17%;
+}
+#signout{
+    margin-right: 3%;
+    float: right;
+}
+
+#logo{
+    float: left;
+    margin-left: 0%;
+    margin-right: 22%;
+}
+a{
+    text-decoration: none;
+    color: black;
+    font-weight: 700;
+}
